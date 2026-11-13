@@ -1,4 +1,4 @@
-<a id="top"></a>
+[DeStore_Sales_Performance_Worksheet.xlsx](https://github.com/user-attachments/files/34816600/DeStore_Sales_Performance_Worksheet.xlsx)<a id="top"></a>
 
 # **DE'STORE RETAIL SALES PERFORMANCE ANALYSIS (2024–2025)**
 
@@ -94,7 +94,8 @@ The data is one flat table in which each row is one invoice line item (a single 
 - Category labels, date formats, misaligned values, missing values, duplicates and outliers were all checked. What was found and how it was handled is summarised in [Section 7](#7-limitations--assumptions).
 - Total_Amount was verified or rebuilt as Quantity × Unit_Price so that every revenue figure comes from one consistent rule.
 
-[View Worksheet](#https://github.com/danieldiala9919/DESTORE-RETAIL-SALES-PERFORMANCE-ANALYSIS-/blob/main/DeStore_Sales_Performance_Worksheet.xlsx)
+[📊 View Worksheet](./DeStore_Sales_Performance_Worksheet.xlsx)
+
 
 
 ---
