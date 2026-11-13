@@ -94,6 +94,8 @@ The data is one flat table in which each row is one invoice line item (a single 
 - Category labels, date formats, misaligned values, missing values, duplicates and outliers were all checked. What was found and how it was handled is summarised in [Section 7](#7-limitations--assumptions).
 - Total_Amount was verified or rebuilt as Quantity × Unit_Price so that every revenue figure comes from one consistent rule.
 
+- [Section 7](#7-limitations--assumptions)
+
 
 ---
 
