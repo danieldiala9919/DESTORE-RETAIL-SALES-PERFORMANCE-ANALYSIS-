@@ -118,6 +118,8 @@ The slowdown is concentrated in the second half of 2025, when every month from J
 
 The dashboard has three analysis pages, each with the same KPI strip (Total Revenue, Average Revenue, Total Quantity Sold, Total Transactions) and interactive slicers. A fourth page holds the written summary and recommendations and is covered in [Section 5](#5-takeaway) and [Section 6](#6-recommendations). Year-on-year figures below come from switching the Date (Year) slicer between 2024 and 2025.
 
+[📊 View Interactive Dashboard](./DeStore_Sales_Performance_Worksheet.xlsx)
+
 ### 4.1 Overview
 
 **Objective:** give leadership a quick read of total performance and answer three questions. Is revenue growing or shrinking? Which categories and locations earn the most? Which gender spends more? Slicers for Date (Year) and Location let the viewer filter every chart on the page.
