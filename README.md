@@ -1,4 +1,4 @@
-[DeStore_Sales_Performance_Worksheet.xlsx](https://github.com/user-attachments/files/34816600/DeStore_Sales_Performance_Worksheet.xlsx)<a id="top"></a>
+<a id="top"></a>
 
 # **DE'STORE RETAIL SALES PERFORMANCE ANALYSIS (2024–2025)**
 
