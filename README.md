@@ -94,7 +94,7 @@ The data is one flat table in which each row is one invoice line item (a single 
 - Category labels, date formats, misaligned values, missing values, duplicates and outliers were all checked. What was found and how it was handled is summarised in [Section 7](#7-limitations--assumptions).
 - Total_Amount was verified or rebuilt as Quantity × Unit_Price so that every revenue figure comes from one consistent rule.
 
-[📊 View Worksheet](./DeStore_Sales_Performance_Worksheet.xlsx)
+[View Worksheet](./DeStore_Sales_Performance_Worksheet.xlsx)
 
 
 
@@ -118,7 +118,7 @@ The slowdown is concentrated in the second half of 2025, when every month from J
 
 The dashboard has three analysis pages, each with the same KPI strip (Total Revenue, Average Revenue, Total Quantity Sold, Total Transactions) and interactive slicers. A fourth page holds the written summary and recommendations and is covered in [Section 5](#5-takeaway) and [Section 6](#6-recommendations). Year-on-year figures below come from switching the Date (Year) slicer between 2024 and 2025.
 
-[📊 View Interactive Dashboard](./DeStore_Sales_Performance_Dashboard.mp4)
+[View Interactive Dashboard](https://drive.google.com/file/d/1oRp9H-fRDte6kl_R024cQxnh6fSX4Jdz/view?usp=sharing)
 
 ### 4.1 Overview
 
