@@ -360,5 +360,7 @@ The dataset was not free of errors. The table below shows what was found in the 
 
 ---
 
-*De'Store Retail Sales Performance Analysis | Prepared by Daniel Diala*
+*De'Store Retail Sales Performance Analysis*
+
+*Prepared by Daniel Diala*
 
