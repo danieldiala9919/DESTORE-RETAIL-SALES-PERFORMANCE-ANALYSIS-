@@ -175,7 +175,7 @@ A horizontal bar chart suits long city names and makes the ranking of branches e
 
 A doughnut chart shows each gender's share of the whole.
 
-<img width="480" height="400" alt="DeStore Dashboard 5" src="https://github.com/user-attachments/assets/fff73d69-6f85-4adf-881b-08cc523a42e1" />
+<img width="550" height="400" alt="DeStore Dashboard 5" src="https://github.com/user-attachments/assets/fff73d69-6f85-4adf-881b-08cc523a42e1" />
 
 
 *Figure 5: Revenue by customer gender.*
